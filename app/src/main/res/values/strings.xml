@@ -1,0 +1,89 @@
+<resources>
+
+    <string name="app_name" translatable="false">My Application</string>
+
+    <string name="male" translatable="false">Male</string>
+    <string name="female" translatable="false">Female</string>
+
+    <string name="category_underweight" translatable="false">Underweight</string>
+    <string name="category_normal" translatable="false">Normal</string>
+    <string name="category_obese" translatable="false">Obese</string>
+    <string name="category_unknown" translatable="false">Unknown</string>
+
+    <string name="result_message" translatable="false">Your BMI is %.2f. You are %s.</string>
+
+
+    <string name="diet_recommendation_underweight" translatable="false">
+    <![CDATA[
+        1. Breakfast:\n
+            - 2 boiled eggs\n
+            - 50 grams of white cheese\n
+            - Whole wheat bread\n\n
+        2. Mid-Morning Snack:\n
+            - A handful of almonds or walnuts\n\n
+        3. Lunch:\n
+            - Grilled chicken breast or fish\n
+            - Quinoa or brown rice\n
+            - Salad with a variety of vegetables\n\n
+        4. Afternoon Snack:\n
+            - One piece of fruit (e.g., apple or banana)\n\n
+        5. Dinner:\n
+            - Bulgur pilaf with vegetables\n
+            - Grilled vegetables and chicken\n
+            - Yogurt\n\n
+        6. Evening Snack:\n
+            - A glass of milk or yogurt before bedtime\n\n
+
+    ]]>
+</string>
+
+    <string name="diet_recommendation_normal" translatable="false">
+    <![CDATA[
+        1. Breakfast:\n
+            - Oatmeal with fruit\n
+            - Low-fat milk or yogurt\n\n
+        2. Mid-Morning Snack:\n
+            - Fresh fruit or a handful of almonds\n\n
+        3. Lunch:\n
+            - Chicken or fish\n
+            - Sandwich with whole wheat bread\n
+            - Salad with a variety of vegetables\n\n
+        4. Afternoon Snack:\n
+            - Smoothie (milk, fruit, yogurt)\n\n
+        5. Dinner:\n
+            - Grilled meat or red lentil stew\n
+            - Whole wheat pasta or brown rice\n
+            - Salad with yogurt dressing\n\n
+        6. Evening Snack:\n
+            - A handful of nuts\n\n
+
+    ]]>
+</string>
+
+    <string name="diet_recommendation_obese" translatable="false">
+    <![CDATA[
+        1. Breakfast:\n
+            - Oatmeal with fresh fruit\n
+            - Low-fat yogurt or milk\n\n
+        2. Mid-Morning Snack:\n
+            - Whole wheat bread slice with cottage cheese\n\n
+        3. Lunch:\n
+            - Grilled chicken or turkey\n
+            - Bulgur pilaf and vegetable dish\n
+            - Salad with a light dressing\n\n
+        4. Afternoon Snack:\n
+            - A portion of fruit or vegetables\n\n
+        5. Dinner:\n
+            - Fish or red lentil patties\n
+            - Quinoa or brown rice\n
+            - Grilled vegetables\n\n
+        6. Evening Snack:\n
+            - A bowl of yogurt or milk\n\n
+
+    ]]>
+</string>
+
+
+
+
+</resources>
